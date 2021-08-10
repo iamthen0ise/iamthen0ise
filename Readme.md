@@ -5,3 +5,5 @@
 - 🔭  I'm interested in Python, Rust, Go
 - 🗞  Collecting interesting reads in my [what2read?](https://w2r.now.sh) link-blog
 - 🏠  Visit my [GitHub Pages Site](https://iamthen0ise.github.io/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthen0ise&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
